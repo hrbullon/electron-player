@@ -1,0 +1,43 @@
+#aside {
+    height: 630px;
+    background-color: #f3f3f3;
+}
+
+#aside h6 {
+    padding-top: 20px;
+}
+
+#aside input {
+    height: 44px !important;
+    color: #495057 !important;
+    background-color: #f7f7f7 !important;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+}
+
+#aside input:focus {
+    background-color: #ffffff !important;
+}
+
+#aside button {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    text-align-last: left;
+    background-color: #f3f3f3 !important;
+    border-radius: 0rem !important;
+}
+
+#aside button:hover {
+    background-color: #80808038 !important
+}
+
+div#content {
+    padding-top: 3% !important;
+}
+
+#footer {
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    background-color: #1b5c6f;
+}
